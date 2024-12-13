@@ -1,5 +1,5 @@
 
-BIFE (Built In File Editor) is a Python3 file editor, with write, read, and create files features.
+STE (Simple Text Editor) is a Python3 text editor, with write, read, delete , see the files in a folder and create files features.
 It is mainly based in the open() Python feature, and currently has no undo behavior, making it dangerous for daily use.
 This is still WIP.
 
@@ -9,7 +9,7 @@ To install Python, please go to
 https://www.python.org/downloads/release/python-3131/
 And scroll down.
 
-# 1.1 - Running *BIFE*
+# 1.1 - Running *STE*
 
 ## For Windows :
 
@@ -23,9 +23,9 @@ Open a Terminal on the folder *BIFE* is located in and run :
 > python3 main.py
 >
 
-# 1.2 - Using *BIFE*
+# 1.2 - Using *STE*
 
-How to use *BIFE*? This is a quick guide on how to do so.
+How to use *STE*? This is a quick guide on how to do so.
 
 ### Use Confirmation
 
